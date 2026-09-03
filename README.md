@@ -20,8 +20,6 @@ NexTalentAI is a production talent platform that helps companies discover Malays
 - Lead product architecture, full-stack engineering, testing, security, and deployment
 - Operate a production system across web applications, backend services, data infrastructure, and automation
 
-The production source and proprietary employer-intelligence implementation are private. This profile focuses on public outcomes and independently verifiable technical work.
-
 ## Technical focus
 
 - **Production full-stack engineering:** Next.js, React, TypeScript, FastAPI, Python, PostgreSQL, Supabase, Vercel, and Railway
@@ -38,7 +36,6 @@ The production source and proprietary employer-intelligence implementation are p
 | [Claude Code 101](https://github.com/Andersonnn7788/claude-code-101) | Technical workshop repository covering the agent harness layer, context management, hooks, skills, subagents, worktrees, MCP, and CLI workflows | Claude Code, Node.js, Git, shell automation |
 | [BimSigner](https://github.com/Andersonnn7788/bimsigner) | Bidirectional Malaysian Sign Language communication system with real-time recognition and an AI-assisted sign avatar | Next.js, FastAPI, MediaPipe, TensorFlow, Gemini, Three.js |
 | [Drone Rescuer](https://github.com/Andersonnn7788/drone-agents) | Rescue drone swarm simulation with strategic LLM orchestration, local drone autonomy, MCP tools, and cross-mission feedback | Python, Next.js, MCP, cloud and local LLMs |
-| [Atomis](https://github.com/Andersonnn7788/creativelearn) | Interactive 3D chemistry learning environment controlled through webcam-based hand gestures | React, TypeScript, Three.js, GLSL, MediaPipe, OpenAI |
 | [Infinity8 AI Platform](https://github.com/Andersonnn7788/geco01) | Full-stack coworking platform with natural-language booking, RAG, voice interaction, payments, and WhatsApp automation | Next.js, FastAPI, Python, RAG, Stripe, WhatsApp |
 
 ## How I engineer
@@ -57,7 +54,7 @@ I use AI as part of a disciplined engineering system rather than as a replacemen
 - Speaker for the Claude Code 101 workshop at CodeNection 2026, a nationwide university hackathon
 - Founder and lead organizer of NexHack 2026, an industry-backed AI hackathon involving students from Malaysian universities
 - Participated in 17 hackathons
-- Top 10 finalist at URIIS Student Biz Challenge 2026 with MyTakziah, selected from more than 200 entries
+- 5-time hackathon winner
 - Top 10 at KitaHack 2026
 - Top 300 at TNG FinHack 2026
 
@@ -70,9 +67,6 @@ March 2026 to present
 March 2026 to June 2026
 
 Built Power BI dashboards using Claude with the Power BI MCP workflow and prepared datasets in Excel for analysis and reporting.
-
-**Bachelor of Actuarial Science, Universiti Malaya**  
-Expected November 2027
 
 ## Core stack
 
