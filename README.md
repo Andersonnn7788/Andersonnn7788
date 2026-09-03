@@ -4,7 +4,7 @@
 
 I build full-stack and applied AI systems from prototype to production. My work spans architecture, product engineering, secure data systems, automated testing, observability, and deployment.
 
-I am especially interested in agentic AI and the harness layer around models: context, tools, permissions, hooks, evaluation, and feedback loops. I am also an Actuarial Science undergraduate at Universiti Malaya and an active participant in Malaysia's technology and hackathon community.
+I am especially interested in agentic AI and the harness layer around models: context, tools, permissions, hooks, evaluation, and feedback loops. I am also a final year Actuarial Science undergraduate at Universiti Malaya and an active participant in Malaysia's technology and hackathon community.
 
 [Website](https://nextalentai.com) | [LinkedIn](https://www.linkedin.com/in/anderson-ling-jing-jie-294ba5311/) | [Email](mailto:lingjingjie789@gmail.com)
 
@@ -58,7 +58,7 @@ I use AI as part of a disciplined engineering system rather than as a replacemen
 - Top 10 at KitaHack 2026
 - Top 300 at TNG FinHack 2026
 
-## Experience and education
+## Experience
 
 **Founder and Full-Stack Engineer, NexTalentAI**  
 March 2026 to present
